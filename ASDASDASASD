@@ -56,7 +56,7 @@ local themes = {
     ElementColor = Color3.fromRGB(32, 32, 38)
 }
 local themeStyles = {
-    LOLITSMINE = {
+    DarkTheme = {
         SchemeColor = Color3.fromRGB(51, 51, 51),
         Background = Color3.fromRGB(10,10,10),
         Header = Color3.fromRGB(0, 0, 0),
@@ -106,9 +106,9 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
     Synapse = {
-        SchemeColor = Color3.fromRGB(46, 48, 43),
-        Background = Color3.fromRGB(13, 15, 12),
-        Header = Color3.fromRGB(36, 38, 35),
+        SchemeColor = Color3.fromRGB(45, 45, 45),
+        Background = Color3.fromRGB(51, 51, 51),
+        Header = Color3.fromRGB(60,60,60),
         TextColor = Color3.fromRGB(152, 99, 53),
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
