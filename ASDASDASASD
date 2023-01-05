@@ -56,7 +56,7 @@ local themes = {
     ElementColor = Color3.fromRGB(32, 32, 38)
 }
 local themeStyles = {
-    DarkTheme = {
+    LOLITSMINE = {
         SchemeColor = Color3.fromRGB(51, 51, 51),
         Background = Color3.fromRGB(10,10,10),
         Header = Color3.fromRGB(0, 0, 0),
@@ -273,7 +273,7 @@ function Kavo.CreateLib(kavName, themeList)
     close.Parent = MainHeader
     close.BackgroundTransparency = 1.000
     close.Position = UDim2.new(0.949999988, 0, 0.137999997, 0)
-    close.Size = UDim2.new(0, 21, 0, 21)
+    close.Size = UDim2.new(0, 10, 10, 10)
     close.ZIndex = 2
     close.Image = "rbxassetid://3926305904"
     close.ImageRectOffset = Vector2.new(284, 4)
